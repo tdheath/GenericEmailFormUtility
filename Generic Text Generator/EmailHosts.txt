@@ -1,0 +1,24 @@
+#This file lists all of the accessible email hosts for the progam
+#Each entry should be of the form [nameOfService],[smtpAddress]
+#	Example: exampleHost1,smtp.exampleHost.com
+#
+#Note: The spacing is simply for legibility and is not required.
+#
+#The first entry is read as the default to use. In order to change this, simply swap it with the
+#	desired default
+
+Hotmail,	smtp.live.com  
+
+#All other entries are options that can be selected during runtime via the menu
+
+GMail,		smtp.gmail.com
+Outlook,	smtp-mail.outlook.com
+Yahoo,		smtp.mail.yahoo.com 
+iCloud,		smtp.mail.me.com
+Comcast,	smtp.comcast.net 
+AOL,		smtp.aol.com 
+Cox (West),	smtp.west.cox.net 
+Cox (Central),	smtp.central.cox.com
+Cox (East),	smtp.east.cox.com
+Office 365,	smtp.office365.com
+GoDaddy,	smtpout.secureserver.net

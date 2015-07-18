@@ -1,0 +1,12 @@
+Sample Form
+This is a sample form. The first line is read as the title of the form and will not appear
+anywhere other than in the application, for identifying each form. For a form item, 
+put it within the text with square brackets.For a form
+element called 'sample', it can be put in like this: [sample].
+Be sure to end each form with a tilde. This allows the reader to differentiate between each form.
+~
+Sample 2
+here is another sample. Testing multiple variables [name], [other stuff], [more stuff], [even more], [test], [test2], test3, [test4], [test5], and so on.
+sincerely,
+[someone else]
+~

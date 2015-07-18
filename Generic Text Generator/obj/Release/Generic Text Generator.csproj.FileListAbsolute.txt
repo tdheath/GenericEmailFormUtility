@@ -1,0 +1,12 @@
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Release\Generic Text Generator.exe.config
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Release\Generic Text Generator.exe
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Release\Generic Text Generator.pdb
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\MainWindow.baml
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\MainWindow.g.cs
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\App.g.cs
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\Generic Text Generator_MarkupCompile.cache
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\Generic Text Generator.g.resources
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\Generic_Text_Generator.Properties.Resources.resources
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\Generic Text Generator.csproj.GenerateResource.Cache
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\Generic Text Generator.exe
+C:\Users\Tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Release\Generic Text Generator.pdb

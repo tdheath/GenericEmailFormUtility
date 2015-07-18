@@ -1,0 +1,15 @@
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Debug\Generic Text Generator.exe.config
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Debug\Generic Text Generator.exe
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Debug\Generic Text Generator.pdb
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\MainWindow.baml
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\MainWindow.g.cs
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\App.g.cs
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic Text Generator_MarkupCompile.cache
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic Text Generator.g.resources
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic_Text_Generator.Properties.Resources.resources
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic Text Generator.csproj.GenerateResource.Cache
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic Text Generator.exe
+c:\users\tracey\documents\visual studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic Text Generator.pdb
+C:\Users\Tracey\Documents\Visual Studio 2012\Projects\Generic Text Generator\Generic Text Generator\obj\Debug\Generic Text Generator.csprojResolveAssemblyReference.cache
+C:\Users\Tracey\Documents\Visual Studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Debug\EmailHosts.txt
+C:\Users\Tracey\Documents\Visual Studio 2012\Projects\Generic Text Generator\Generic Text Generator\bin\Debug\FormTemplates.txt
